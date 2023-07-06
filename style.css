@@ -1,0 +1,29 @@
+.dziv {
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(purple,black);
+    color: green;
+    font-size: 20px;
+    text-align: center;
+}
+#kianara {
+    font-size: 20px;
+}
+.black {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    color: black;
+    font-size: 30px;
+}
+.red {
+    background-color: red;
+    color: green;
+    font-size: 30px;
+}
+button {
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    text-align: center;
+}
